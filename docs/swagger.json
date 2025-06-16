@@ -229,7 +229,7 @@
         ],
         "responses": {
           "200": {
-            "$ref": "#/components/responses/200 get ById"
+            "$ref": "#/components/responses/200 get by id"
           },
           "404": {
             "$ref": "#/components/responses/404"
@@ -590,7 +590,7 @@
           }
         }
       },
-      "200 get ById": {
+      "200 get by id": {
         "description": "Get contact by id",
         "content": {
           "application/json": {
