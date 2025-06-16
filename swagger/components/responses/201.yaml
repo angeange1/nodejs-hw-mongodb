@@ -1,0 +1,11 @@
+description: Contact successfully created
+content:
+  application/json:
+    schema:
+      type: object
+      properties:
+        message:
+          type: string
+          example: Contact created successfully
+        contact:
+          $ref: ../../components/schemas/Contact.yaml
