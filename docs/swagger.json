@@ -298,7 +298,7 @@
                     "description": "Link to contact's photo",
                     "type": "string",
                     "format": "binary",
-                    "example": "https://res.cloudinary.com/dfbpenx2s/image/upload/v1731962580/psixivpamvlqluth3ufz.jpg"
+                    "example": "https://res.cloudinary.com/dkgdhtm8p/image/upload/v1749505250/ejxk5pskzq9nqtxvegep.jpg"
                   }
                 }
               }
@@ -493,7 +493,7 @@
                           },
                           "name": {
                             "type": "string",
-                            "example": "Daenerys Targaryen"
+                            "example": "John Doe"
                           },
                           "phoneNumber": {
                             "type": "string",
@@ -501,11 +501,11 @@
                           },
                           "email": {
                             "type": "string",
-                            "example": "drogon@gmail.com"
+                            "example": "johny@gmail.com"
                           },
                           "photo": {
                             "type": "string",
-                            "example": "https://res.cloudinary.com/dizemssqk/image/upload/v1749464985/czwxgqezmt9gxdogod0i.png"
+                            "example": "https://res.cloudinary.com/dkgdhtm8p/image/upload/v1749505250/ejxk5pskzq9nqtxvegep.jpg"
                           },
                           "isFavourite": {
                             "type": "boolean",
@@ -569,14 +569,14 @@
                   {
                     "_id": "684065c4eee740223c622d92",
                     "userId": "68406527eee740223c622d8a",
-                    "name": "Daenerys Targaryen",
+                    "name": "John Doe",
                     "phoneNumber": "78995212274",
-                    "email": "drogon@gmail.com",
+                    "email": "johny@gmail.com",
                     "isFavourite": true,
                     "contactType": "home",
                     "createdAt": "2025-06-04T15:27:00.426Z",
                     "updatedAt": "2025-06-06T21:45:23.402Z",
-                    "photo": "https://res.cloudinary.com/image/igq606n.avif"
+                    "photo": "https://res.cloudinary.com/dkgdhtm8p/image/upload/v1749505250/ejxk5pskzq9nqtxvegep.jpg"
                   }
                 ],
                 "page": 1,
@@ -619,7 +619,7 @@
                     },
                     "name": {
                       "type": "string",
-                      "example": "Daenerys Targaryen"
+                      "example": "John Doe"
                     },
                     "phoneNumber": {
                       "type": "string",
@@ -627,11 +627,11 @@
                     },
                     "email": {
                       "type": "string",
-                      "example": "drogon@gmail.com"
+                      "example": "johny@gmail.com"
                     },
                     "photo": {
                       "type": "string",
-                      "example": "https://res.cloudinary.com/dizemssqk/image/upload/v1749464985/czwxgqezmt9gxdogod0i.png"
+                      "example": "https://res.cloudinary.com/dkgdhtm8p/image/upload/v1749505250/ejxk5pskzq9nqtxvegep.jpg"
                     },
                     "isFavourite": {
                       "type": "boolean",
@@ -738,7 +738,7 @@
           "photo": {
             "description": "Link to contact's photo",
             "type": "string",
-            "example": "https://res.cloudinary.com/dizemssqk/image/upload/v1749464985/czwxgqezmt9gxdogod0i.png"
+            "example": "https://res.cloudinary.com/dkgdhtm8p/image/upload/v1749505250/ejxk5pskzq9nqtxvegep.jpg"
           },
           "userId": {
             "description": "Contact's owner",
@@ -793,7 +793,7 @@
           "photo": {
             "description": "Link to contact's photo",
             "type": "string",
-            "example": "https://res.cloudinary.com/dizemssqk/image/upload/v1749464985/czwxgqezmt9gxdogod0i.png"
+            "example": "https://res.cloudinary.com/dkgdhtm8p/image/upload/v1749505250/ejxk5pskzq9nqtxvegep.jpg"
           },
           "userId": {
             "description": "Contact's owner",
